@@ -1,6 +1,6 @@
 # Terragasm
 
-This mod adds rumble when the player dies, takes damage, and hits.
+This mod adds rumble when the player dies, takes damage and hits.
 
 ## Requirements
 
@@ -9,9 +9,9 @@ This mod adds rumble when the player dies, takes damage, and hits.
 
 ## Instalation
 
-1. Open tModLoader
-2. Go on Mod Browser and search for "Terragasm"
-3. Install and enable the mod
+I couldn't publish it in Mod Browser due to NSFW policies so you'll need to install it manually.
+
+Check this [guide](https://github.com/tModLoader/tModLoader/wiki/Basic-tModLoader-Usage-Guide#Installing-Mods)
 
 ## How to use
 
