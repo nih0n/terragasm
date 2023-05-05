@@ -1,6 +1,7 @@
 # Terragasm
 
 This mod adds rumble when the player dies, takes damage and hits.
+[Demo gameplay](https://youtu.be/MyyySQ8pS3s).
 
 ## Requirements
 
