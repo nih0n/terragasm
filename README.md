@@ -10,9 +10,9 @@ This mod adds rumble when the player dies, takes damage and hits.
 
 ## Instalation
 
-I couldn't publish it in Mod Browser due to NSFW policies so you'll need to install it manually.
+Download the `.tmod` file available on the `Releases` page and place it in your `Mods` folder.
 
-Check this [guide](https://github.com/tModLoader/tModLoader/wiki/Basic-tModLoader-Usage-Guide#Installing-Mods)
+I also published the mod on Steam Workshop and it is in approval process.
 
 ## How to use
 
