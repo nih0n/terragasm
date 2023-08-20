@@ -1,4 +1,4 @@
 displayName = Terragasm
 author = nih0n
-version = 0.1
+version = 0.1.1
 dllReferences = Buttplug, Buttplug.Client.Connectors.WebsocketConnector, Newtonsoft.Json, Microsoft.CSharp, deniszykov.WebSocketListener, System.Threading.Tasks.Dataflow
